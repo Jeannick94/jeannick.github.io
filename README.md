@@ -16,5 +16,10 @@ Programmer @ Sunny Optical Technology
 - Smart Chicken Farm
 
 ### Projects
+- MultiSource Indoor Positioning System Based on Edge Computing
+- Digital FrequencyMeter Based on FPGA
+- Smart Parking
+- Bidirectional Visitor Counter
+- Water Level Indicator
 
 ### Publications
